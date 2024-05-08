@@ -1,0 +1,25 @@
+h1,h2,h3{
+    font-family: "Roboto", sans-serif;
+
+}
+p{
+    font-family: "Roboto", sans-serif;
+    font-size: 2em;
+    font-weight: 300;
+
+}
+
+#countdown span.number {
+    font-size: 2em;
+    color: #75A1F4;
+    font-weight: 900;
+    font-family: "Roboto", sans-serif;
+    text-decoration: underline;
+}
+  
+  #countdown span.text {
+    font-size: 2em;
+    font-weight: 300;
+    font-family: "Roboto", sans-serif;
+
+  }
